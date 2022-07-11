@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
     chrome.storage.local.set({ mwData : {
             rate: 75,
-            meterLoc: '.NyMmmf',
+            meterLoc: '.fXLZ2',
             pplCountLoc: '.uGOf1d',
             presenterLoc: '.DLTdnd'
         }
