@@ -9,4 +9,4 @@ I have clue how, but Google seems to generate the DOM for Google Meet thru some 
 
 Update Settings:
 
-![alt text](https://github.com/manleyn/meeting-waste/blob/main/misc/settings-view.png)
+![alt text](https://github.com/manleyn/meeting-waste/blob/main/misc/-view.png)
