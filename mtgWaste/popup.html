@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+    <style>
+        .showMe {
+            display: block;
+        }
+        .hideMe{ 
+            display: none;
+        }
+    </style>
+    </head>
+<body style="width: 200px;">
+    <div id="inputs">
+        <div style="font-weight: 500;">Meeting Wa$te <img src="./img/timeIsMoney.png" style="width: 16px"/></div>
+        <p>Set $/hr Rate:<br/><input type="text" id="rate" /></p>
+        <p><button id="setRate" type="button">Set Rate</button></p>
+        <p><button id="resetMeter" type="button">Reset Meter</button></p>
+        <span id="rateSetSuccess" class="hideMe" style="color: green"></span>
+        <span id="rateSetFail" class="hideMe" style="color: red"></span><br/>
+        <img id="settingAccess" style="width: 16px; cursor: pointer;" src="./img/gear.png"/>
+        <div class="hideMe" style="border: 1px solid black; padding: 0px 3px 0px 3px;" id="mwSettings">
+            <p>Meter Location:<br/><input type="text" id="meterLoc" /></p>
+            <p>People Counter Location:<br/><input type="text" id="pplCountLoc" /></p>
+            <p>Presenter Location:<br/><input type="text" id="presenterLoc" /></p>
+            
+            <p><button id="saveSettings" type="button">Save</button></p> 
+        </div>
+        <div></div>
+    </div>
+
+    <script src="./js/popup_script.js"></script>
+</body>
+
+</html>
