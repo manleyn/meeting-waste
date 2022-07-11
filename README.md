@@ -1,5 +1,5 @@
 # Meeting Wa$te
-Google Chrome extension Google Meet meetings. This extension generates a meter like view of the cost of a meeting based on an average configurable rate and the number of people on the call.
+Google Chrome extension for Google Meet meetings. This extension generates a meter like view of the cost of a meeting based on an average configurable rate and the number of people on the call.
 
 ![alt text](https://github.com/manleyn/meeting-waste/blob/main/misc/meterExample.png)
 
