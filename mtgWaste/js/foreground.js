@@ -22,7 +22,7 @@ function elementReady(selector, onetime) {
 const mw_outer = document.createElement('DIV');
 const mw_myMeter = document.createElement('SPAN');
 mw_outer.id = 'mw_outer';
-mw_outer.style = 'padding-left: 10px; padding-top: 17px;'
+mw_outer.style = 'padding-left: 0px; padding-top: 0px;'
 mw_myMeter.id = 'mw_myMeter';
 mw_myMeter.classList.add('odometer');
 
