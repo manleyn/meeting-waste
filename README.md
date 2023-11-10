@@ -3,7 +3,7 @@ Google Chrome extension for Google Meet meetings. This extension generates a met
 
 ![alt text](https://github.com/manleyn/meeting-waste/blob/main/misc/meterExample1.png)
 
-This extension is not ready for Google so it is a dev mode extension for now. Be use to switch your extensions to Dev Mode and [Load unpacked](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked) extension.
+This extension is not ready for Google so it is a dev mode extension for now. Be sure to switch your extensions to Dev Mode and [Load unpacked](https://developer.chrome.com/docs/extensions/mv3/getstarted/#unpacked) extension.
 
 Use the popup to set whatever $/hr rate you want for your meeting. You can update the rate in real time in the middle of a meeting as well as reset the meter back to zero.
 
